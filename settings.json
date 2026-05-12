@@ -1,14 +1,14 @@
 {
   "name": "papa ji",
   "bot-account": {
-    "username": "Papaofserver",
-    "password": "",
+    "username": "RAJU5559",
+    "password": HIMANSHU,
     "type": "offline"
   },
   "server": {
     "ip": "HINDUXWARRIORS.aternos.me",
     "port": 17282,
-    "version": "",
+    "version": 1.21.10,
     "try-creative": false
   },
   "position": {
